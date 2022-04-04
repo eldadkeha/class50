@@ -141,3 +141,5 @@ TermSocket.open: Opened 1
 [I 13:48:13.680 NotebookApp] Saving file at /G7.ipynb
 [I 13:48:24.114 NotebookApp] Saving file at /G7.ipynb
 [I 13:48:26.292 NotebookApp] Saving file at /G7.ipynb
+[I 13:52:27.172 NotebookApp] Saving file at /G8.ipynb
+[I 13:52:54.027 NotebookApp] Saving file at /G9.ipynb
