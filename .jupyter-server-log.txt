@@ -130,3 +130,14 @@ TermSocket.open: Opened 1
 [W 12:10:31.571 NotebookApp] delete /Untitled.ipynb
 [I 12:10:37.404 NotebookApp] Saving file at /G7.ipynb
 [I 12:10:58.773 NotebookApp] Saving file at /requirements.txt
+[W 12:18:31.066 NotebookApp] Culling 'idle' kernel 'python3' (9eec3e80-e94d-4558-be67-57eb5036fc72) with 1 connections due to 606 seconds of inactivity.
+[I 12:18:31.066 NotebookApp] Kernel shutdown: 9eec3e80-e94d-4558-be67-57eb5036fc72
+[W 12:20:31.065 NotebookApp] Culling 'idle' kernel 'python3' (f46d574a-5316-41f1-b384-bb42bf77ffed) with 1 connections due to 620 seconds of inactivity.
+[I 12:20:31.066 NotebookApp] Kernel shutdown: f46d574a-5316-41f1-b384-bb42bf77ffed
+[W 12:20:31.584 NotebookApp] Culling 'idle' kernel 'python3' (cebe9b33-e766-4e2d-906b-317963a8969b) with 1 connections due to 621 seconds of inactivity.
+[I 12:20:31.585 NotebookApp] Kernel shutdown: cebe9b33-e766-4e2d-906b-317963a8969b
+[I 13:44:32.001 NotebookApp] Kernel started: 00b0b4ae-69a4-4faf-911c-6ce7b01144f6, name: python3
+[I 13:46:13.194 NotebookApp] Saving file at /G7.ipynb
+[I 13:48:13.680 NotebookApp] Saving file at /G7.ipynb
+[I 13:48:24.114 NotebookApp] Saving file at /G7.ipynb
+[I 13:48:26.292 NotebookApp] Saving file at /G7.ipynb
